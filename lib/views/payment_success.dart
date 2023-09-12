@@ -25,7 +25,7 @@ class PaymentSuccess extends StatelessWidget {
           ),
         ),
         foregroundColor: Colors.black,
-        backgroundColor: Colors.transparent,
+        backgroundColor: Colors.white,
         elevation: 0,
       ),
       body: Center(
